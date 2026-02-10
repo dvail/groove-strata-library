@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-02-10T01:26:03.350Z",
+  "trackCount": 3,
+  "tracks": [
+    {
+      "id": "major-scale-c",
+      "title": "Major Scale (C)",
+      "artist": "Exercise",
+      "tonic": 0,
+      "tonicMidi": 36,
+      "mode": "major",
+      "tempoBpm": 120,
+      "lengthBars": 4,
+      "path": "tracks/exercises/major-scale-c.json"
+    },
+    {
+      "id": "minor-scale-a",
+      "title": "Minor Scale (A)",
+      "artist": "Exercise",
+      "tonic": 9,
+      "tonicMidi": 33,
+      "mode": "minor",
+      "tempoBpm": 120,
+      "lengthBars": 4,
+      "path": "tracks/exercises/minor-scale-a.json"
+    },
+    {
+      "id": "talking-heads-psycho-killer-minimal",
+      "title": "Psycho Killer (Minimal)",
+      "artist": "Talking Heads",
+      "tonic": 9,
+      "tonicMidi": 33,
+      "mode": "minor",
+      "tempoBpm": 123,
+      "lengthBars": 4,
+      "path": "tracks/talking-heads/psycho-killer.json"
+    }
+  ]
+}

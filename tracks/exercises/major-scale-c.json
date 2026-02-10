@@ -1,0 +1,257 @@
+{
+  "tonic": 0, 
+  "bass": {
+    "patterns": [
+      {
+        "id": "scale-pattern", 
+        "length": {
+          "bars": 2
+        }, 
+        "events": [
+          {
+            "duration": {
+              "beats": 0.5
+            }, 
+            "start": {
+              "beat": 0, 
+              "bar": 0
+            }, 
+            "pitch": {
+              "midi": 36
+            }
+          }, 
+          {
+            "duration": {
+              "beats": 0.5
+            }, 
+            "start": {
+              "beat": 0.5, 
+              "bar": 0
+            }, 
+            "pitch": {
+              "midi": 38
+            }
+          }, 
+          {
+            "duration": {
+              "beats": 0.5
+            }, 
+            "start": {
+              "beat": 1, 
+              "bar": 0
+            }, 
+            "pitch": {
+              "midi": 40
+            }
+          }, 
+          {
+            "duration": {
+              "beats": 0.5
+            }, 
+            "start": {
+              "beat": 1.5, 
+              "bar": 0
+            }, 
+            "pitch": {
+              "midi": 41
+            }
+          }, 
+          {
+            "duration": {
+              "beats": 0.5
+            }, 
+            "start": {
+              "beat": 2, 
+              "bar": 0
+            }, 
+            "pitch": {
+              "midi": 43
+            }
+          }, 
+          {
+            "duration": {
+              "beats": 0.5
+            }, 
+            "start": {
+              "beat": 2.5, 
+              "bar": 0
+            }, 
+            "pitch": {
+              "midi": 45
+            }
+          }, 
+          {
+            "duration": {
+              "beats": 0.5
+            }, 
+            "start": {
+              "beat": 3, 
+              "bar": 0
+            }, 
+            "pitch": {
+              "midi": 47
+            }
+          }, 
+          {
+            "duration": {
+              "beats": 0.5
+            }, 
+            "start": {
+              "beat": 3.5, 
+              "bar": 0
+            }, 
+            "pitch": {
+              "midi": 48
+            }
+          }, 
+          {
+            "duration": {
+              "beats": 0.5
+            }, 
+            "start": {
+              "beat": 0, 
+              "bar": 1
+            }, 
+            "pitch": {
+              "midi": 48
+            }
+          }, 
+          {
+            "duration": {
+              "beats": 0.5
+            }, 
+            "start": {
+              "beat": 0.5, 
+              "bar": 1
+            }, 
+            "pitch": {
+              "midi": 47
+            }
+          }, 
+          {
+            "duration": {
+              "beats": 0.5
+            }, 
+            "start": {
+              "beat": 1, 
+              "bar": 1
+            }, 
+            "pitch": {
+              "midi": 45
+            }
+          }, 
+          {
+            "duration": {
+              "beats": 0.5
+            }, 
+            "start": {
+              "beat": 1.5, 
+              "bar": 1
+            }, 
+            "pitch": {
+              "midi": 43
+            }
+          }, 
+          {
+            "duration": {
+              "beats": 0.5
+            }, 
+            "start": {
+              "beat": 2, 
+              "bar": 1
+            }, 
+            "pitch": {
+              "midi": 41
+            }
+          }, 
+          {
+            "duration": {
+              "beats": 0.5
+            }, 
+            "start": {
+              "beat": 2.5, 
+              "bar": 1
+            }, 
+            "pitch": {
+              "midi": 40
+            }
+          }, 
+          {
+            "duration": {
+              "beats": 0.5
+            }, 
+            "start": {
+              "beat": 3, 
+              "bar": 1
+            }, 
+            "pitch": {
+              "midi": 38
+            }
+          }, 
+          {
+            "duration": {
+              "beats": 0.5
+            }, 
+            "start": {
+              "beat": 3.5, 
+              "bar": 1
+            }, 
+            "pitch": {
+              "midi": 36
+            }
+          }
+        ], 
+        "name": "C major scale"
+      }
+    ], 
+    "placements": [
+      {
+        "start": {
+          "beat": 0, 
+          "bar": 0
+        }, 
+        "repeat": {
+          "times": 2
+        }, 
+        "patternId": "scale-pattern", 
+        "id": "scale-placement"
+      }
+    ]
+  }, 
+  "artist": "Exercise", 
+  "beat": {
+    "events": []
+  }, 
+  "title": "Major Scale (C)", 
+  "ticksPerBeat": 240, 
+  "source": {
+    "notes": "C major scale up and down in eighth notes"
+  }, 
+  "length": {
+    "bars": 4
+  }, 
+  "tempoBpm": 120, 
+  "mode": "major", 
+  "timeSignature": {
+    "beatsPerBar": 4, 
+    "beatUnit": 4
+  }, 
+  "sections": [
+    {
+      "kind": "other", 
+      "span": {
+        "duration": {
+          "bars": 4
+        }, 
+        "start": {
+          "beat": 0, 
+          "bar": 0
+        }
+      }, 
+      "id": "scale", 
+      "name": "Scale"
+    }
+  ], 
+  "id": "major-scale-c", 
+  "tonicMidi": 36
+}
