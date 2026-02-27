@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-02-10T01:26:03.350Z",
-  "trackCount": 3,
+  "generatedAt": "2026-02-27T01:01:42.316Z",
+  "trackCount": 5,
   "tracks": [
     {
       "id": "major-scale-c",
@@ -34,6 +34,28 @@
       "tempoBpm": 123,
       "lengthBars": 4,
       "path": "tracks/talking-heads/psycho-killer.json"
+    },
+    {
+      "id": "viagra-boys--aint-no-thief",
+      "title": "Aint No Thief",
+      "artist": "Viagra Boys",
+      "tonic": 9,
+      "tonicMidi": 33,
+      "mode": null,
+      "tempoBpm": 120,
+      "lengthBars": 1,
+      "path": "tracks/viagra-boys/aint-no-thief.json"
+    },
+    {
+      "id": "viagra-boys--worms",
+      "title": "Worms",
+      "artist": "Viagra Boys",
+      "tonic": 8,
+      "tonicMidi": 32,
+      "mode": null,
+      "tempoBpm": 120,
+      "lengthBars": 2,
+      "path": "tracks/viagra-boys/viagra-boys--worms.json"
     }
   ]
 }
