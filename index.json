@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-02-27T01:02:36.098Z",
-  "trackCount": 5,
+  "generatedAt": "2026-02-27T01:21:55.409Z",
+  "trackCount": 6,
   "tracks": [
+    {
+      "id": "billie-eilish--bad-guy",
+      "title": "Bad Guy",
+      "artist": "Billie Eilish",
+      "tonic": 7,
+      "tonicMidi": 31,
+      "mode": null,
+      "tempoBpm": 120,
+      "lengthBars": 8,
+      "path": "tracks/billie-eilish/bad-guy.json"
+    },
     {
       "id": "major-scale-c",
       "title": "Major Scale (C)",

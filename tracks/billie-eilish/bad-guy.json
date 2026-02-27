@@ -1,0 +1,519 @@
+{
+  "id": "billie-eilish--bad-guy",
+  "title": "Bad Guy",
+  "artist": "Billie Eilish",
+  "timeSignature": {
+    "beatsPerBar": 4,
+    "beatUnit": 4
+  },
+  "ticksPerBeat": 240,
+  "tonic": 7,
+  "tonicMidi": 31,
+  "tempoBpm": 120,
+  "length": {
+    "bars": 8
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "name": "Section 1",
+      "span": {
+        "start": {
+          "bar": 0,
+          "beat": 0
+        },
+        "duration": {
+          "bars": 8
+        }
+      }
+    }
+  ],
+  "bass": {
+    "events": [
+      {
+        "id": "note-1",
+        "start": {
+          "bar": 0,
+          "beat": 0
+        },
+        "duration": {
+          "beats": 0.75
+        },
+        "pitch": {
+          "midi": 31
+        }
+      },
+      {
+        "id": "note-2",
+        "start": {
+          "bar": 0,
+          "beat": 1.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 31
+        }
+      },
+      {
+        "id": "note-3",
+        "start": {
+          "bar": 0,
+          "beat": 2
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 34
+        }
+      },
+      {
+        "id": "note-4",
+        "start": {
+          "bar": 0,
+          "beat": 2.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 31
+        }
+      },
+      {
+        "id": "note-5",
+        "start": {
+          "bar": 0,
+          "beat": 3.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 31
+        }
+      },
+      {
+        "id": "note-6",
+        "start": {
+          "bar": 1,
+          "beat": 0.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 31
+        }
+      },
+      {
+        "id": "note-7",
+        "start": {
+          "bar": 1,
+          "beat": 1.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 31
+        }
+      },
+      {
+        "id": "note-8",
+        "start": {
+          "bar": 1,
+          "beat": 2
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 34
+        }
+      },
+      {
+        "id": "note-9",
+        "start": {
+          "bar": 1,
+          "beat": 2.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 31
+        }
+      },
+      {
+        "id": "note-10",
+        "start": {
+          "bar": 1,
+          "beat": 3
+        },
+        "duration": {
+          "beats": 0.75
+        },
+        "pitch": {
+          "midi": 29
+        }
+      },
+      {
+        "id": "note-11",
+        "start": {
+          "bar": 2,
+          "beat": 0
+        },
+        "duration": {
+          "beats": 0.75
+        },
+        "pitch": {
+          "midi": 31
+        }
+      },
+      {
+        "id": "note-12",
+        "start": {
+          "bar": 2,
+          "beat": 1.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 31
+        }
+      },
+      {
+        "id": "note-13",
+        "start": {
+          "bar": 2,
+          "beat": 2
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 34
+        }
+      },
+      {
+        "id": "note-14",
+        "start": {
+          "bar": 2,
+          "beat": 2.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 31
+        }
+      },
+      {
+        "id": "note-15",
+        "start": {
+          "bar": 2,
+          "beat": 3.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 31
+        }
+      },
+      {
+        "id": "note-16",
+        "start": {
+          "bar": 3,
+          "beat": 0.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 31
+        }
+      },
+      {
+        "id": "note-17",
+        "start": {
+          "bar": 3,
+          "beat": 1.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 31
+        }
+      },
+      {
+        "id": "note-18",
+        "start": {
+          "bar": 3,
+          "beat": 2
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 34
+        }
+      },
+      {
+        "id": "note-19",
+        "start": {
+          "bar": 3,
+          "beat": 2.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 31
+        }
+      },
+      {
+        "id": "note-20",
+        "start": {
+          "bar": 3,
+          "beat": 3
+        },
+        "duration": {
+          "beats": 0.75
+        },
+        "pitch": {
+          "midi": 29
+        }
+      },
+      {
+        "id": "note-21",
+        "start": {
+          "bar": 4,
+          "beat": 0
+        },
+        "duration": {
+          "beats": 0.75
+        },
+        "pitch": {
+          "midi": 36
+        }
+      },
+      {
+        "id": "note-22",
+        "start": {
+          "bar": 4,
+          "beat": 1.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 36
+        }
+      },
+      {
+        "id": "note-23",
+        "start": {
+          "bar": 4,
+          "beat": 2
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 39
+        }
+      },
+      {
+        "id": "note-24",
+        "start": {
+          "bar": 4,
+          "beat": 2.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 36
+        }
+      },
+      {
+        "id": "note-25",
+        "start": {
+          "bar": 4,
+          "beat": 3.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 36
+        }
+      },
+      {
+        "id": "note-26",
+        "start": {
+          "bar": 5,
+          "beat": 0.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 36
+        }
+      },
+      {
+        "id": "note-27",
+        "start": {
+          "bar": 5,
+          "beat": 1.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 36
+        }
+      },
+      {
+        "id": "note-28",
+        "start": {
+          "bar": 5,
+          "beat": 2
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 39
+        }
+      },
+      {
+        "id": "note-29",
+        "start": {
+          "bar": 5,
+          "beat": 2.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 36
+        }
+      },
+      {
+        "id": "note-30",
+        "start": {
+          "bar": 5,
+          "beat": 3
+        },
+        "duration": {
+          "beats": 0.75
+        },
+        "pitch": {
+          "midi": 43
+        }
+      },
+      {
+        "id": "note-31",
+        "start": {
+          "bar": 6,
+          "beat": 0
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 38
+        }
+      },
+      {
+        "id": "note-32",
+        "start": {
+          "bar": 6,
+          "beat": 1.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 38
+        }
+      },
+      {
+        "id": "note-33",
+        "start": {
+          "bar": 6,
+          "beat": 2
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 41
+        }
+      },
+      {
+        "id": "note-34",
+        "start": {
+          "bar": 6,
+          "beat": 2.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 38
+        }
+      },
+      {
+        "id": "note-35",
+        "start": {
+          "bar": 6,
+          "beat": 3.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 26
+        }
+      },
+      {
+        "id": "note-36",
+        "start": {
+          "bar": 7,
+          "beat": 0.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 26
+        }
+      },
+      {
+        "id": "note-37",
+        "start": {
+          "bar": 7,
+          "beat": 1.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 26
+        }
+      }
+    ]
+  },
+  "beat": {
+    "events": []
+  }
+}
