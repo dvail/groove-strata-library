@@ -1,0 +1,246 @@
+{
+  "id": "viagra-boys--aint-no-thief",
+  "title": "Aint No Thief",
+  "artist": "Viagra Boys",
+  "timeSignature": {
+    "beatsPerBar": 4,
+    "beatUnit": 4
+  },
+  "ticksPerBeat": 240,
+  "tonic": 9,
+  "tonicMidi": 33,
+  "tempoBpm": 120,
+  "length": {
+    "bars": 1
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "name": "Section 1",
+      "span": {
+        "start": {
+          "bar": 0,
+          "beat": 0
+        },
+        "duration": {
+          "bars": 1
+        }
+      }
+    }
+  ],
+  "bass": {
+    "events": [
+      {
+        "id": "note-1",
+        "start": {
+          "bar": 0,
+          "beat": 0
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 24
+        }
+      },
+      {
+        "id": "note-2",
+        "start": {
+          "bar": 0,
+          "beat": 0.25
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 33
+        }
+      },
+      {
+        "id": "note-3",
+        "start": {
+          "bar": 0,
+          "beat": 0.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 33
+        }
+      },
+      {
+        "id": "note-4",
+        "start": {
+          "bar": 0,
+          "beat": 0.75
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 33
+        }
+      },
+      {
+        "id": "note-5",
+        "start": {
+          "bar": 0,
+          "beat": 1
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 33
+        }
+      },
+      {
+        "id": "note-6",
+        "start": {
+          "bar": 0,
+          "beat": 1.25
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 28
+        }
+      },
+      {
+        "id": "note-7",
+        "start": {
+          "bar": 0,
+          "beat": 1.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 31
+        }
+      },
+      {
+        "id": "note-8",
+        "start": {
+          "bar": 0,
+          "beat": 1.75
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 33
+        }
+      },
+      {
+        "id": "note-9",
+        "start": {
+          "bar": 0,
+          "beat": 2
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 33
+        }
+      },
+      {
+        "id": "note-10",
+        "start": {
+          "bar": 0,
+          "beat": 2.25
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 31
+        }
+      },
+      {
+        "id": "note-11",
+        "start": {
+          "bar": 0,
+          "beat": 2.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 34
+        }
+      },
+      {
+        "id": "note-12",
+        "start": {
+          "bar": 0,
+          "beat": 2.75
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 34
+        }
+      },
+      {
+        "id": "note-13",
+        "start": {
+          "bar": 0,
+          "beat": 3
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 34
+        }
+      },
+      {
+        "id": "note-14",
+        "start": {
+          "bar": 0,
+          "beat": 3.25
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 28
+        }
+      },
+      {
+        "id": "note-15",
+        "start": {
+          "bar": 0,
+          "beat": 3.5
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 31
+        }
+      },
+      {
+        "id": "note-16",
+        "start": {
+          "bar": 0,
+          "beat": 3.75
+        },
+        "duration": {
+          "beats": 0.25
+        },
+        "pitch": {
+          "midi": 28
+        }
+      }
+    ]
+  },
+  "beat": {
+    "events": []
+  }
+}
