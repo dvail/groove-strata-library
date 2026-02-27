@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-27T01:01:42.316Z",
+  "generatedAt": "2026-02-27T01:02:36.098Z",
   "trackCount": 5,
   "tracks": [
     {
@@ -55,7 +55,7 @@
       "mode": null,
       "tempoBpm": 120,
       "lengthBars": 2,
-      "path": "tracks/viagra-boys/viagra-boys--worms.json"
+      "path": "tracks/viagra-boys/worms.json"
     }
   ]
 }
